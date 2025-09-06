@@ -1,0 +1,4 @@
+# Minimal requirements - let pip resolve compatible versions
+fastapi>=0.100.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0.0
